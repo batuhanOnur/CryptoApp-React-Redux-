@@ -55,7 +55,11 @@ a:hover{
     margin:0 0 0 15px;
 }
 .logo a{
+<<<<<<< HEAD
    color: white;
+=======
+    color: white;
+>>>>>>> 99717bc (footer and homepage)
 }
 .menu-control-container{
     display: none !important;
@@ -116,7 +120,11 @@ a:hover{
         z-index: 100;
         background-color: var(--bgSecondary);
     }
+<<<<<<< HEAD
   
+=======
+
+>>>>>>> 99717bc (footer and homepage)
     .menu-control-container{
         display: block !important;
     }
@@ -234,7 +242,11 @@ a:hover{
 }
 
 .coin-links{
+<<<<<<< HEAD
   padding: 0px 20px;
+=======
+    padding: 0px 20px;
+>>>>>>> 99717bc (footer and homepage)
     flex: 0.5;
 }
 
